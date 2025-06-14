@@ -6,7 +6,7 @@
 ---
 <h2>使用方法(直接使用源代码,Windows操作)：</h2>  
 
-- 请先pip安装python selenium库，同时配置qg.py中的内容（有注释）
+- 请先pip安装python selenium库，同时配置qg.py中的内容（有注释），记得下载运行浏览器的webdriver.exe放置到同目录下，以edge为例，下载链接：https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?form=MA13LH#installation
 - git仓库或将代码文件qg.py后，打开cmd窗口，cd至目录
 - 输入python qg.py，等待淘宝页面打开后自行使用淘宝登录
 - 返回cmd窗口，enter键继续，等待跳出支付页面支付即可
