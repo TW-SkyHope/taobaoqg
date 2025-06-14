@@ -9,7 +9,8 @@
 - 请先pip安装python selenium库，同时配置qg.py中的内容（有注释），记得下载运行浏览器的webdriver.exe放置到同目录下，以edge为例，下载链接：https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?form=MA13LH#installation
 - git仓库或将代码文件qg.py后，打开cmd窗口，cd至目录
 - 输入python qg.py，等待淘宝页面打开后自行使用淘宝登录
-- 返回cmd窗口，enter键继续，等待跳出支付页面支付即可
+- 进入淘宝购物车(要抢购的商品要提前放在购物车中！)，选中。
+- 返回cmd窗口，enter键继续，等待到时间跳出支付页面支付即可
 
 <h3>为保证速度最好设置个免密支付喔，还有因为网络延迟最好时间提前半秒。</h3>  
 
